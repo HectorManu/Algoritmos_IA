@@ -141,13 +141,27 @@ función AGENTE-REACTIVO-SIMPLE(percepción) devuelve una acción
     devolver acción
 ```
 
+Los agentes reactivos simples toman decisiones basadas en reglas predefinidas y directas. Responden a los estímulos del entorno en tiempo real sin considerar un estado interno o un historial. Son adecuados para entornos simples y bien definidos.
+
+Ejemplo: Un agente reactivos simple puede ser un termostato en una casa. Si la temperatura actual es más baja que el valor objetivo, encenderá la calefacción. Si es más alta, la apagará. No tiene en cuenta patrones a largo plazo o preferencias de temperatura de los ocupantes.
+
 2. Agentes reactivos basados en modelos
+
+Los agentes reactivos basados en modelos utilizan un modelo interno del entorno para tomar decisiones. Aunque siguen reglas directas, también consideran cómo las acciones afectarán el estado futuro.
+
+Ejemplo: Un agente reactivos basado en modelos puede ser un sistema de control de tráfico en una intersección. Observa el tráfico actual, pero también tiene un modelo del flujo de tráfico en la intersección a lo largo del tiempo. Si permite que varios autos pasen de una vez, podría prever congestionamientos futuros.
 
 3. Agentes basados en obejtivos 
 
+Los agentes basados en objetivos determinan su acción evaluando diferentes objetivos y seleccionando la acción que maximiza o minimiza una métrica específica.
+
+Ejemplo: Un agente basado en objetivos puede ser un planificador de rutas en una aplicación de navegación. Dado un destino, evaluará diferentes rutas en función de la duración estimada del viaje, la distancia o el tráfico, y seleccionará la ruta más rápida.
+
 4. Agentes basados en utilidad
 
+Los agentes basados en utilidad toman decisiones considerando una función de utilidad que mide el valor esperado de los resultados. Buscan maximizar su utilidad esperada al elegir la acción que ofrece la mejor relación entre costos y beneficios.
 
+Ejemplo: Un agente basado en utilidad podría ser un sistema de recomendación de películas. Evaluará las preferencias y clasificaciones del usuario, así como las características de las películas, y recomendará aquellas que tienen una alta probabilidad de ser apreciadas por el usuario en función de su función de utilidad.
 
 **Tipos de entornos**
 
@@ -186,3 +200,13 @@ Calculadora | Rápidez al realizar cálculos <br> Cálculos correctos | Salones 
 Agente | Medida de rendimientos | Entorno | Actuadores  | Sensores 
 --- | --- | --- | --- | --- 
 Coche autónomo | Precisión con la que reconoce autos y personas <br>  | Calles <br> Carretera <br> Estacionamientos <br> Chochera | Llantas <br> Motor <br> | Cámaras <br> Volante  
+
+
+## Tarea 
+
+> Exponer el Lunes Agentes basados en Utilidad 
+
+El entorno de la impresora 3D es Secuencial 
+
+
+
