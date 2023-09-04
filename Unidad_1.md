@@ -165,11 +165,24 @@ Ejemplo: Un agente basado en utilidad podría ser un sistema de recomendación d
 
 **Tipos de entornos**
 
+Discreto Vs Continuo 
+
+El discreto es el que tienen un número finito, Es un estado del medio de forma finita, donde se refiere a la cantidad limitadadd de percepcioens, la generación de distintas acciones y el manejo del tiempo del agente
+
+continuo es un estado de medio dde forma infinita donde se refier a la gran cantidad de percepcioens, la generación de distintas acciones y el manejo del tiempo del agente que es casi imposible de enumerarlos.
+
+continuo es un ambiente inifinito, tiene una gran cantidad de percepciones 
+
 Agente inidividual vs multiagente
 
 Totalmente observales vs parcialmlente observables
 
 Determinista vs Estocástico
+
+Se trata de un entorno en el cual se pueden llegar a realizar predicciones de futuras acciones, siempre y cando se conozcan sus variables. 
+
+
+Estocastico se trata de un entorno en el al los resultados o sucesos tiene únicmanete una probabilidad de ocurrie más sin embargo eso o lo hace un hecho, el resultado puede cambiar en cualqueir momento.
 
 Epsódico vs secuencia
 
@@ -207,6 +220,37 @@ Coche autónomo | Precisión con la que reconoce autos y personas <br>  | Calles
 > Exponer el Lunes Agentes basados en Utilidad 
 
 El entorno de la impresora 3D es Secuencial 
+
+
+
+# 04/09/2023
+
+rata de un modelo ocomputaiconal cuyo objetivo es que el agente siempre tenga una idea del entorno 
+
+la diferencia entre uno no modelos es que esta no tiene idea del entorno en el cual se encuentra
+
+el como evolcciona el mndo pregunta si los efectos que si toma una acción qué causan mis acciones en el entorno 
+
+el reactivo nomas no sabe los efectos de su entorno si es bueno o malo. 
+
+no toma la más optima en cambio en los objetivo sí 
+
+## Agente de objetivos 
+
+es un agente cuyo objetivo es lograr una meta específica, utliza infomación sobre esta meta para determinar qué situaciones son deseables y tomar las acciones adecuadas para alcanzarla de manera correcta 
+
+no descubre mientras va avanzando este debe tomar las decisiones adecuadas para lograr su objetivo pero no va descubriendo cómo se hacen 
+
+
+## Tarea 
+
+> NOTA: Exposición: 18/09/2023
+
+Costo uniforme 
+* Definición 
+* Algoritmo
+* Ejemplo (paso a paso)
+definición y un ejemplo y los elementos computacionales (estructuras de datos) 
 
 
 
