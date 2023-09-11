@@ -254,3 +254,100 @@ definición y un ejemplo y los elementos computacionales (estructuras de datos)
 
 
 
+
+
+# Examen unidad 1
+
+1. Se usa este término para indicar el elemento que reacciona a un estímulo realizando uno acción.
+
+- Actores
+
+2. ¿De qué depende la decisión de una gente inteligente? 
+
+- Del conocmiento del medio ambiente den el que habita - INCORRECTO
+
+Posibles respuestas:
+- De las instrucciones del usuario que lo maneja
+- De las ocndiciones del programa del entorno 
+- Todas las anteriores
+- De la secuencia de todas las percepciones hasta ese momento.
+
+3. Se puede definir el comportamiento de una gente inteligente mediante... (puede haber más de una respuesta)
+
+- Un programa que implemente las opciones del comportamiento
+- una función definida
+- un sofware que ejecute las funcieons definidas para un conjunto percepciones
+
+4. Es un sistema de control de control de calidad de la galletera Dondé que tiene una cámara d esupervisión enfocada a la banda transportadora, si una galleta está deforme un émbolo puede sacarla de la producción y cae el depósito de desperdicios ¿Qué papel juega la cámara?
+
+- Sensor
+
+5. En un sistema de control de control de calidad de la galletera Dondé que tiene una cámara de supervisión enfocada a la banda transportadora , si un galleta está deforme un émbolo puede sacarla de la producción y cae al depósito de desperdicios. ¿Qué papel juega el émbolo?
+
+- Actuador
+
+6. En un sistema de control de control de calidad de la galletera Dondé que tiene una cámara de supervisión enfocada a la banda transportadora , si un galleta está deforme un émbolo puede sacarla de la producción y cae al depósito de desperdicios. ¿Qué papel juegan la banda y el depósito?
+
+- Medio ambiente
+
+7. En la arquitectura de un agente inteligente, los _______ son elementos que reaccionan a un estímulo o entrada realizando una acción.
+
+Actuadores
+
+8. Cuando se dice que un agente inteligente da el máximo según sensa y conoce el entorno, se refiere al concepto de:
+
+- Acciones
+
+9. Cuando se dice que un agente inteligente puede medir que tan correcta es su respuesta, se refiere al concepto de:
+
+- Racionalidad
+
+10. Cuando la secuencia de acciones que  un agente inteligente genera es la más adecuada, se refiere al concepto de:
+
+- Rendimiento
+
+11. Cuando se definen completamente las condiciones en las que  un agente inteligente debe desempeñarse, se refiere al concepto de:
+
+- entorno
+
+12. Es lo que permite que la ejecución del programa del agente proyecte las percepciones y acciones.
+
+- Arquitectura
+
+13. Un agente inteligente se comporta de acuerdo a una tabla que caracteriza su función
+
+- Verdadero
+
+14. Un agente inteligente se comporta de acuerdo a lo que sensa en ese momento sin importar las percepciones previas
+
+- Falso
+
+15. La función del agente inteligente es lo mismo que el programa del agente inteligente
+
+- Falso
+
+16. Elige todas las características que una medida de rendimiento debe tener para un agente inteligente
+
+
+17. De acuerdo a la descripción siguiente, ¿qué tipo de agente es Robotina? Robotina es un robot que asiste a la familia de los Supersónicos y sigue instrucciones que le indica la Sra. Lucero, como ordenar la casa y apagar las luces.
+
+- Agente basado en objetivos INCORRECTO
+
+18. De acuerdo a la descripción siguiente, ¿qué tipo de agente es Robotina? Robotina es un robot que asiste a la familia de los Supersónicos para imitar los juegos de su pequeño hijo Cometín y mantenerlo entretenido.
+
+- Agente basado en utilidad INCORRECTO
+
+
+19. De acuerdo a la descripción siguiente, ¿qué tipo de agente es Robotina? Robotina es un robot que asiste a la familia de los Supersónicos para que la  comida esté siempre servida en cuanto la familia esté completa a la mesa.
+
+- Agente basado en objetivos
+
+
+20. De acuerdo a la descripción siguiente, ¿qué tipo de agente es Robotina? Robotina es un robot que asiste a la familia de los Supersónicos para mantener la casa en correcto funcionamiento en términos de alimentación y descanso conservando la limpieza.
+
+- Agente basado en utilidad
+
+
+21. ¿Qué tiene el tipo de agente basado en modelos que le hace falta al agente reactivo simple?
+
+- Tiene necesidad de conocer la totalidad del entorno 
