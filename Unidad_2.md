@@ -84,3 +84,20 @@ Este método de búsqueda primer toma en cuenta todas las rutas de longitud 1, l
 En caso de habe rsolución, la encuentrará, si son varias soluciones, este tipo de búsqueda encontrará primero el nodo destino (estado meta) más próximo. 
 
 en este utilizan un nodo fifo es decir que el primero que va a expandir es el primero que llego. primeor genera cada nodo hijo por cada nivel del árbol 
+
+# 14/09/2023
+
+
+
+Búsqueda preferente por profundidad
+
+Este método de búsqueda consiste en encontrar un camino cuyos nodos han sido seleccionados de acuerdo a un criterio sni fundamento. 
+
+Algoritmo búsqueda preferente por profundidaad 
+
+Localizar nodo raíz 
+
+Búsqueda prefernte por profundidad 
+
+Sóslo si la búsqueda conduce a un **callejón sin salida** (un nodo sin meta que no tiene expansión), se revierte la búsqueda (ir a un nivel antterior) y se expanden 
+
