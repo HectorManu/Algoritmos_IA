@@ -101,3 +101,39 @@ Búsqueda prefernte por profundidad
 
 Sóslo si la búsqueda conduce a un **callejón sin salida** (un nodo sin meta que no tiene expansión), se revierte la búsqueda (ir a un nivel antterior) y se expanden 
 
+
+# exposición de la busqueda bidireccional 
+
+1. nodo: estado del problema en un momento dato hay tres tipos 
+2. nodo inicial 
+3. objetivo 
+4. transición 
+
+árbol de expansión subconjunto de aristas de un grafo conexo en quee conct todos los vértices que se genera en la búsqueda del nodo . 
+
+Objetivo 
+
+Reducción del espacio de búsqueda 
+Mejor eficiencia 
+Garantizar uan solución óptima 
+Identificar rutas más cortaas 
+
+Ventajas 
+- Se necesita conocer el estado objetivo de manerra explícita 
+- Se necesita de operadores inversos para genera lsos estaods predecesores de un lado ( significa que no avanza hacia delante si no que necesitas saber de donde vienes )
+- Recuperación de información más completa.
+
+Desventajas
+
+- Mayor coste computacional 
+- Requerimientos de datos invertidos adicionales. (como se ocupaon dos busquedas se tiene que tner dos busquedas)
+- Pérdida de eficiencia(no en todos los casos se necesita este algoritmo )
+
+Problema 
+
+- Ir desde el nodo 1 hasta el nodo 7 solo pudiendo trnsitar por los arcos definidos en la imagen 
+
+- Ir desde el nodo 7 hasta el nodo 1 solo pudiendo transitar de forma inversa por los arcos definidos en la imagen 
+
+
+Esto se resuelve con dos listas inicial y una lista final es decir 2 árboles.  
